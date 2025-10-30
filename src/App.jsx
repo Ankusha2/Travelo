@@ -11,29 +11,20 @@ import Section8 from './Components/Section8';
 import Footer from './Components/Footer';
 import Section9 from './Components/Section9';
 import ShimmerUI from './ShimmerUI';
-// import Button from './Components/UI/Button';
 
 function App() {
   return (
     <div>
-      {/* <ShimmerUI/> */}
      <Navbar/>
-     {/* <Section1/> */}
      <Section2/>
-    <Section5/>
-    <Section4/>
+     <Section5/>
+     <Section4/>
      <Section3/>
      <Section6/>
      <Section7/>
-       <Section9/>
+     <Section9/>
      <Section8/>
-   
      <Footer/>
-     
-     
-     {/* <Button text="submit"/>
-     <Button text="Add to cart"/>
-     <Button text="OK"/> */}
     </div>
   );
 }
