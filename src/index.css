@@ -1,0 +1,11 @@
+.btn{
+    width: fit-content;
+    padding: 10px;
+    margin: 10px;
+    background-color: red;
+    color: white;
+}
+.btn:hover{
+    background-color: rgb(71, 145, 132);
+    color: white;
+}

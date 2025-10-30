@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+
+
+#carouselExampleFade .carousel-item img{
+    height: 100vh;
+}
+#carouselExampleFade #caption h1{
+    font-family: 'Satisfy', cursive;
+   font-size: 100px;
+}
+#carouselExampleFade #caption button{
+    margin-top: 20px;
+   height: 55px;
+   width: 170px;
+   border-radius: 6px;
+   background-color: rgb(71, 145, 132);
+   color: white;
+   border: none;
+   font-weight: 500;
+}
+#carouselExampleFade #caption button:hover{
+   background-color: red;
+}
+ #pre-next-control #main{
+    border-radius: 10px;
+    background-color: grey;
+    height: 40px;
+    width: 40px;
+}

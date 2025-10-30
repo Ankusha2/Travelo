@@ -1,0 +1,16 @@
+.one{
+    background-color: rgb(235, 255, 255);
+    display: flex;
+    justify-content: center;
+    padding: 100px;
+}
+.two{
+    text-align: center;
+    width: 50%;
+}
+.one img{
+    margin-bottom: 30px;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}

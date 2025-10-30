@@ -1,0 +1,50 @@
+.section32{
+   height: fit-content;
+}
+.section312{
+  display: flex;
+    justify-content: center;
+}
+.text2{
+    margin-top: 40px;
+   padding: 20px;
+    width: 40%;
+    text-align: center;
+}
+.section322{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.card2{
+    background-size: cover;
+    margin: 20px;
+    height: 210px;
+    width: 350px;
+    border-radius: 10px;
+    border: none;
+    color: white;
+    /* opacity: 0.7; */
+}
+.card2:hover{
+    /* box-shadow: offset-x offset-y blur-radius color; */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+.content2 button{
+    margin-left: 10px;
+    width: fit-content;
+    background-color:rgb(71, 145, 132);
+    border: none;
+    border-radius: 10px;
+    color: white;
+}
+.content2 button:hover{
+   background-color: red;
+}
+.content2 .name2{
+    margin-top: 150px;
+    /* background-color: aquamarine; */
+    display: flex;
+    justify-content: flex-start;
+    padding: 20px;
+}

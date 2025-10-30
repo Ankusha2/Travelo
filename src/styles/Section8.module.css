@@ -1,0 +1,23 @@
+.one{
+    margin-top: 70px;
+}
+.two{
+    /* background-color: brown; */
+    display: flex;
+    justify-content: space-between;
+     padding: 20px 170px;
+}
+.card1{
+    font-family: 'Times New Roman', Times, serif;
+    padding: 30px;
+    width:30%;
+    height: fit-content;
+}
+img{
+    height: 230px;
+    width: 350px;
+    border-radius: 10px;
+}
+h4:hover{
+    color: red;
+}

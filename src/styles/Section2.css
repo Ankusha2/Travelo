@@ -1,0 +1,33 @@
+.go-form{
+    height: max-content;
+    background-color: rgb(5, 5, 39);
+    color:white;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    padding: 45px;
+    justify-content: center;
+    align-items: center;
+}
+.go-form form input,select{
+    padding: 11px;
+    width: 210px;
+    margin: 10px;
+    border-radius: 5px;
+    background-color: transparent;
+    border: 1px solid grey;
+    color: grey;
+}
+.go-form button{
+     padding: 11px;
+    width: 150px;
+    margin: 10px;
+    border-radius: 5px;
+    color: white;
+    background-color: red;
+    border: none;
+    font-weight: 600;
+}
+.go-form button:hover{
+    background-color: rgb(71, 145, 132);
+}

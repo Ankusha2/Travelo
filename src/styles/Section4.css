@@ -1,0 +1,31 @@
+.one{
+    /* background-color: aqua; */
+    background-image: url("/src/assets/newsletter2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* opacity: 0.9; */
+}
+#content4{
+    display: flex;
+    justify-content: center;
+    /* background-color: violet; */
+    /* width: max-content; */
+    padding: 30px;
+}
+#data{
+    color: white;
+    padding: 20px;
+}
+#content4 .form2 form{
+    padding: 20px;
+     display: flex;
+     flex-direction: row;
+     flex-wrap: nowrap;
+}
+.form2 input{
+     margin: 10px;
+    width:400px;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+}
